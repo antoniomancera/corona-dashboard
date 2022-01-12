@@ -4,6 +4,7 @@
 
 export const environment = {
   production: false,
+  covidTrackerUrl: 'https://api.covidtracking.com/v1',
 };
 
 /*
